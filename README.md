@@ -1,5 +1,3 @@
-# Demo 
-
 **Promethean Fire AI**: Revolutionizing physician documentation
 
 Promethean Fire AI is an advanced tool that enables you to effectively monitor physician sessions, whether they are conducted virtually or in-person. Our state-of-the-art AI system listens to the sessions in real-time, transcribes the conversations, and captures comprehensive notes. Through a real-time dashboard, you'll gain valuable insights into the important topics and entities discussed during the session, allowing you to prioritize the well-being of your patients.
